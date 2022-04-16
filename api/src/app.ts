@@ -1,5 +1,5 @@
 import express from 'express';
-import recordsRouter from './routes/records.routes.js';
+import recordsRouter from './routes/records.routes';
 
 const app = express();
 
